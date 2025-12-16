@@ -1,6 +1,6 @@
 # Introduction
 
-This is a project for the course Embedded Machine Learning: A Software-Hardware Design Flow at The University of Hong Kong
+This is a project for the course **ELEC4342 - Embedded Machine Learning: A Software-Hardware Design Flow** at The University of Hong Kong
 
 It contains an unofficial implementation of the [Learned Step Size Quantization method paper](https://arxiv.org/abs/2402.01459). It's under `LSQ.ipynb`.
 
